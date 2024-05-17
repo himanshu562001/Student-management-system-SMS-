@@ -1,0 +1,52 @@
+#main{
+    padding: 0;
+    margin: 0;
+    background-color: mediumseagreen;
+
+}
+.form{
+    border: 2px solid rgb(59, 201, 201);
+    height: 500px;
+    width:40%;   
+    background-color: darkgray;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 450px;
+   
+    display: block;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.head{
+    
+    font-size: 25px;
+
+
+}
+label{
+    
+    text-decoration: cornflowerblue solid;
+    font-style: oblique;
+    font-weight: 700;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    text-decoration: underline;
+}
+.gender input{
+    width: 5px;
+   
+}
+input{
+    border: none;
+    height: 25px;
+    margin: 5px;
+    border-radius: 5px;
+}
+#btn button{
+    border: none;
+    height: 25px;
+    width: 70px;
+    border-radius: 5px;
+    background-color: cornflowerblue;
+}

@@ -1,0 +1,33 @@
+#main{
+   padding: 0;
+   margin: 0;
+
+}
+.header{
+    padding: 10px;
+    font-size: 80px;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.btn button{
+    margin: 20px;
+    height: 40px;
+    width: 80px;
+    border: none;
+    border-radius: 5px;
+    background-color: cadetblue;
+}
+.table_heading,th{
+   border: 3px solid cadetblue;
+    padding: 5px;
+    
+
+}
+.tbl{
+    border: 3px solid cadetblue;
+    padding: 5px;
+    
+}
